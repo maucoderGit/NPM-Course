@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "npm": "^7.23.0"
+  },
+  "name": "npm_packages",
+  "version": "1.0.0",
+  "description": "Platzi course: packages creation with npm",
+  "main": "src/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Mauricio Alejandro Gonzalez (maugfalcon1@gmail.com)",
+  "license": "MIT"
+}
