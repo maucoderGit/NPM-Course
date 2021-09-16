@@ -6,7 +6,9 @@
   "version": "1.0.0",
   "description": "Platzi course: packages creation with npm",
   "main": "src/index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "moment": "^2.29.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
